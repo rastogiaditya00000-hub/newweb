@@ -10,7 +10,7 @@ import HtmlForms from './htmlforms'
 import HtmlIntro from './HtmlIntro'
 import HtmlTags from './htmltags'
 import Re from './re'
-import "./app.css"
+import "./App.css"
 
 const App = () => {
   return (
